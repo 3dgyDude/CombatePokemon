@@ -1,4 +1,4 @@
 # CombatePokemon
-Combate pokemon clásico del pokemon perla/diamante/platino
+Pokemon combat as being in perl/diamond/platinum
 
-Nueva versión del antiguo: https://github.com/jdlmd/Combate_pokemon
+New version of: https://github.com/jdlmd/Combate_pokemon
